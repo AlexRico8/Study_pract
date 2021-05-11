@@ -15,8 +15,10 @@
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li><a href="/home">Start</a></li>
-                    <li><a href="/Porgs">Porgs</a></li>
-                    <li><a href="/Ewoks">Ewoks</a></li>
+                    <li><a href="/Main">Main</a></li>
+                    <li><a href="/Dextra">Dextra</a></li>
+                    <li><a href="/Prima">Prima</a></li>
+                    <li><a href="/Floid">Floid</a></li>
                 </ul>
             </div>
         </div>

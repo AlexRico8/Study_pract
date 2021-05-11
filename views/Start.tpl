@@ -15,6 +15,7 @@
         width: 100px;
         position: fixed;
         right: 950px;
+        top: 250px;
         }
         </style>
         <p><input type=button class=h4 value=texte></p>

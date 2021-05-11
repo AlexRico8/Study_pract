@@ -83,10 +83,10 @@
     <Content Include="static\scripts\respond.min.js" />
     <Content Include="static\scripts\_references.js" />
     <Content Include="views\Start.tpl" />
-    <Content Include="views\Porgs.tpl" />
-    <Content Include="views\Ewoks.tpl" />
-    <Content Include="views\Wookiee.tpl" />
-    <Content Include="views\index.tpl" />
+    <Content Include="views\Dextra.tpl" />
+    <Content Include="views\Prima.tpl" />
+    <Content Include="views\Floid.tpl" />
+    <Content Include="views\Main.tpl" />
     <Content Include="views\layout.tpl" />
   </ItemGroup>
   <ItemGroup>
