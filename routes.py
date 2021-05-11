@@ -7,6 +7,14 @@ from bottle import route, view
 
 @route('/')
 @route('/home')
+@view('Start')
+def home():
+    """Renders the home page."""
+    return dict(
+        title1='Данный сайт подготовлен для выполнения задания по учебной практике.',
+        title2='Сайт предназначен для построения и нахождения крайчайших путей с помощью различных алгоритмов.'
+    )
+@route('/index')
 @view('index')
 def home():
     """Renders the home page."""

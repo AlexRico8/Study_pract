@@ -2,6 +2,7 @@
 
 
  <img src= "static\image\banner.png">
+ 
 
 
 <div class="row">
