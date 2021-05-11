@@ -19,7 +19,7 @@ def home():
 def home():
     """Renders the home page."""
     return dict(
-        title='Алгоритмы:',
+        title='Графы:',
         title1='Алгоритм Прима',
         title2='Алгоритм Дейкстра',
         title3='Алгоритм Флойда'
