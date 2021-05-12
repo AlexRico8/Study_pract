@@ -8,8 +8,9 @@
         
         <style>
         .h4 {
-        border-radius: 4px;
+        border-radius: 12px;
         background: white;
+        border-color: #cccccc;
         color: black;
         font-size: 9pt;
         height: 70px;
@@ -19,5 +20,5 @@
         top: 250px;
         }
         </style>
-        <p><input type=button class=h4 onclick=/Main value={{btn_text}}></p>
+        <p><a href=/Main><input type=button class=h4  value={{btn_text}}></a></p>
 </div>
