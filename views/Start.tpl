@@ -8,15 +8,16 @@
         
         <style>
         .h4 {
-        background: navy;
-        color: white;
+        border-radius: 4px;
+        background: white;
+        color: black;
         font-size: 9pt;
-        height: 50px;
-        width: 100px;
+        height: 70px;
+        width: 120px;
         position: fixed;
         right: 950px;
         top: 250px;
         }
         </style>
-        <p><input type=button class=h4 value=texte></p>
+        <p><input type=button class=h4 onclick=/Main value={{btn_text}}></p>
 </div>
