@@ -1,5 +1,7 @@
 % rebase('layout.tpl', title='Home Page')
 <div class="row">
+<h1>{{title_main}}</h1>
+    <p>{{text_main}}</p>
     <div class="col-md-4">
         <h1>{{title2}}</h1>
         <p>{{text2}}</p>
