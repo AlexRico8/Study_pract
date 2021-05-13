@@ -1,24 +1,26 @@
 % rebase('layout.tpl', title='Home Page')
 
-
-<div>
-        <h1>Calculator</h1>
+<div class="jumbotron">
+<img src="static\image\1.png" align ="left">
+      <h1>Calculator</h1>
         <p>{{title1}}</p>
         <p>{{title2}}</p>
-        
+</div>
+<div>
         <style>
         .h4 {
         border-radius: 12px;
-        background: white;
+        background: wight;
         border-color: #cccccc;
         color: black;
         font-size: 9pt;
         height: 70px;
-        width: 120px;
+        width: 200px;
         position: fixed;
-        right: 950px;
-        top: 250px;
+        right: 870px;
+        top: 360px;
         }
+
         </style>
         <p><a href=/Main><input type=button class=h4  value={{btn_text}}></a></p>
 </div>
