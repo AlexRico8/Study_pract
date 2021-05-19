@@ -16,9 +16,9 @@
         font-size: 9pt;
         height: 70px;
         width: 200px;
-        position: fixed;
-        right: 870px;
-        top: 360px;
+        position: relative;
+        left: 50%;
+        transform: translate(-50%,0);
         }
 
         </style>
