@@ -11,7 +11,7 @@
    width: 150px;
    }
   </style>
- <p align=center><select name = size[]>
+ <p align=center><select name = "GetValue">
   <option value = 4> 4 </option>
   <option value = 5> 5 </option>
   <option value = 6> 6 </option>
@@ -40,7 +40,8 @@
         .button1{background-color: #4CAF50;}
 
         </style>
-        <button class="button button1">{{title_enter}}</button>
+        <p><a style = "button button1" class="btn btn-default">{{title_enter}}</a></p>
+        <a class="button button1">{{title_enter}}</a>
  </form>
  </body>
  </head>
