@@ -63,6 +63,8 @@ def contact():
 def about():
     """Renders the about page."""
     return dict(
+        text_info="Справка",
+        text_litr="Введите вершину",
         title='Алгоритм Дейкстра',
         title_mat1 = 'Матрица №1',
         title_mat2 = 'Матрица №2',

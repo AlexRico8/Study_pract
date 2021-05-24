@@ -17,7 +17,7 @@
  <head>
   <h2 align = center>{{ title }}</h2>
  </head>
- <form action = select1.php method=post>
+ <form action ="/Floid"  method="post">
  <p></p>
   <p align=center>{{title_size}}</p>
   <style>
