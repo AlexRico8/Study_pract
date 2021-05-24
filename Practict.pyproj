@@ -54,6 +54,8 @@
     <Compile Include="Prima1.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="test_Prima1.py" />
+    <Compile Include="test_Prima2.py" />
     <Compile Include="routes.py" />
     <Compile Include="test_Dextra1.py" />
     <Compile Include="test_Dextra2.py" />
