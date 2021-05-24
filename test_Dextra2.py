@@ -110,7 +110,6 @@ class Test_test_2(unittest.TestCase):
                     min = dist[v]
                     min_index = v
             u = min_index
-            print(u)
             sptSet[u] = True
  
             for v in range(V):
